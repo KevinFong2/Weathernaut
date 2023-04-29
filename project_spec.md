@@ -85,6 +85,8 @@ For Milestone 2, include **2+ GIFs** of the build process here!
 
 <img src='https://i.imgur.com/OyV5d2N.gif' title='Video Demo4' width='' alt='Part4' />
 
+GIFs created with ScreenToGif
+
 ## License
 
 Copyright **2023** **Daniel Chen, Kevin Fong, Dahyeon Park, Sajed Atwa, Reagan Dhar**
