@@ -9,7 +9,7 @@ Submitted by:
 - Sajed Atwa
 - Reagan Dhar
 
-Time spent: 9 hours spent in total
+Time spent: 40 hours spent in total
 
 ## Summary
 
