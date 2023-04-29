@@ -42,8 +42,8 @@ The following EXTRA features are implemented:
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
+https://youtu.be/ROHX2Yg7Hgkf
 
-<img src='https://youtu.be/ROHX2Yg7Hgkf' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with Youtube
 
