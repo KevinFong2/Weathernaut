@@ -13,8 +13,7 @@ Time spent: 40 hours spent in total
 
 ## Summary
 
-This document provides a summary of our project building process for our app, Weathernaut is a weather app where you can look up different cities and their weather, as
-well being able to favorite a city that they would like to keep track of.
+Weathernaut is a weather app where you can look up different cities and their weather, as well being able to favorite a city that they would like to keep track of.
 
 ## Milestone Requirements
 
