@@ -28,16 +28,16 @@
 
 Required Features:
 
-- Displays Weather conditions
-- Displays temperature
-- Allows the user to type in the name of a city to recieve weather data on
+- [x] Displays Weather conditions
+- [x] Displays temperature
+- [x] Allows the user to type in the name of a city to recieve weather data on
 
 Stretch Features:
 
 - Shows future forecast
 - Shows next day
-- Add cities as favorite locations
-- Sunrise and Sunset time
+- [x] Add cities as favorite locations
+- [x] Sunrise and Sunset time
 - Button that converts the temperature from Fahrenheit and Celsius
 
 ### 2. Chosen API(s)
@@ -76,6 +76,10 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ GIFs** of the build process here!
+<img src='https://i.imgur.com/zqcMSzc.gif' title='Video Demo1' width='' alt='Part1' />
+<img src='https://i.imgur.com/laCssry.gif' title='Video Demo2' width='' alt='Part2' />
+<img src='https://i.imgur.com/kzD3h98.gif' title='Video Demo3' width='' alt='Part3' />
+<img src='https://i.imgur.com/OyV5d2N.gif' title='Video Demo4' width='' alt='Part4' />
 
 ## License
 
