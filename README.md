@@ -45,6 +45,10 @@ Here's a video that demos all of the app's implemented features:
 https://youtu.be/ROHX2Yg7Hgkf
 
 
+https://user-images.githubusercontent.com/116980504/235314621-4a5daaf8-0d48-41a9-8067-de3c4cb4d5e9.mp4
+
+
+
 VIDEO created with Youtube
 
 ## Notes
